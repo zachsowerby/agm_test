@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to Nemesis</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the text of the Hymn to Nemesis in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript (with reference to West)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <l n="1">Νέμεσι πτερόεσσα βίου ῥοπά</l>
+      <l n="2">κυανῶπι θεὰ θύγατερ Δίκας</l>
+      <l n="3">ἃ κοῦφα φρυάγματα θνατῶν</l>
+      <l n="4">ἐπέχεις ἀδάμαντι χαλινῷ.</l>
+      <l n="5">ἔχθουσα δ'ὕβριν ὀλοὰν βροτῶν</l>
+      <l n="6">μέλανα φθόνον ἐκτὸς ἐλαύνεις.</l>
+      <l n="7">ὑπὸ σὸν τροχὸν ἄστατον ἀστιβῆ,</l>
+      <l n="8">χαροπὰ μερόπων στρέφεται τύχα</l>
+      <l n="9">λήθουσα δὲ πὰρ πόδα βαίνεις</l>
+      <l n="10">γαυρούμενον αυχένα κλίνεις.</l>
+      <l n="11">ὑπὸ πῆχυν ἀεὶ βίοτον μετρεῖς.</l>
+      <l n="12">νεύεις δ'ὑπὸ κόλπον ἀεὶ κάτω.</l>
+      <l n="13">ζυγὸν μετὰ χεῖρα κρατοῦσα</l>
+      <l n="14">ἵλαθι μάκαιρα δικασπόλε.</l>
+      <l n="15">Νέμεσι πτερόεσσα βίου ῥοπά</l>
+      <l n="16">Νέμεσιν θεὸν ᾄδομεν ἀθφίταν</l>
+      <l n="17">Νίκην τανυσίπτερον ὀμβρίμαν</l>
+      <l n="18">νημερτέα καὶ πάρεδρον Δίκαν</l>
+      <l n="19">ἃ τὰν μεγαλανορίαν βροτῶν</l>
+      <l n="20">νεμεσῶσα φέρεις κατὰ Ταρτάρου.</l>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to Helios</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the implied meter of the Hymn to Helios in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Reconstructed based on photography of the manuscript (with reference to West)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="7">u+u+-+u+u+- u+u -+-</l>
+        <l n="8">u+u+-+u u -+u+u -+-</l>
+        <l n="9">-+- u u+-+u u+-+-</l>
+        <l n="10">u+u+-+u u+-+u+u+- u+-</l>
+        <l n="11">u+u -+u u+-+u+u -+u+-</l>
+        <l n="12">-+-+u u+-+u+u -+u+-</l>
+        <l n="13">-+- u+u+-+u+u -+-</l>
+        <l n="14">u+u -+u u+-+u u+-+-</l>
+        <l n="15">u+u+- u u+- u+u -+u+-</l>
+        <l n="16">-+-+u u+-+u+u -+u+-</l>
+        <l n="17">- - u+u -+u+u -+u+-</l>
+        <l n="18">u u+-+u u+-+u u+-+-</l>
+        <l n="19">u+u+- u+u -+u u+-+-</l>
+        <l n="20">-+-+u+u -+u+u+- u+-</l>
+        <l n="21">-+- u u+-+u u+-+-</l>
+        <l n="22">u+u -+u+u -+u+u+-+-</l>
+        <l n="23">-+- u+u -+u+u -+-</l>
+        <l n="24">u+u+- u u - u+u -+u+-</l>
+        <l n="25">u+u+-+u+u -+u u+-+-</l>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to the Muse</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the implied meter of the Hymn to the Muse in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Reconstructed based on photography of the manuscript (with reference to West)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="1">-+u+u+-+u u+-</l>
+        <l n="2">-+- u+u+-+u+u -+-</l>
+        <l n="3">- u+u -+u+u+-</l>
+        <l n="4">-+- u+u -+u+u -+-</l>
+        <l n="5">-+u+- u+-+u -</l>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to Isis</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <l n="1">εἷς ὕμνος ἀνά τε γᾶν</l>
+      <l n="2">ἀνά τε νῆας ἁλιπόρους</l>
+      <l n="3">ἄδεται· πολυτρόποις</l>
+      <l n="4">ἓν τέλος ἐν ὀργίοις·</l>
+      <l n="5">ἁ βαθύκερως Ἶσις</l>
+      <l n="6">ἅ τ' ἔαρος ἁ θέρεος</l>
+      <l n="7">ἅ τε χείματος ἄγει</l>
+      <l n="8">νεογόνους ἡνίας.</l>
+      <l n="9">τοῦτο τὸ καλεῦσι πῦρ</l>
+      <l n="10">οὐρανοῦ τ' αἴδός τε</l>
+      <l n="11">καὶ χθόνιος ὑμέναιος·</l>
+      <l n="12">αἱ φυτῶν ὠδίνες·</l>
+      <l n="13">οἱ Κύπριδος ἵμεροι·</l>
+      <l n="14">τοῦ νηπιάχου γονά.</l>
+      <l n="15">πῦρ τέλεον ἀρρητον</l>
+      <l n="16">οἱ Ῥέας Κούρητες</l>
+      <l n="17">ὅ τε Κρόνιος ἄμητος</l>
+      <l n="18">ἄστρα διφρηλάτα</l>
+      <l n="19">πάντα δι' ἀνακτόρων</l>
+      <l n="20">Ἶσιδι χορεύσαι.</l>
+
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to the Muse</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the text of the Hymn to the Muse in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript, with reference to West</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="1">Καλλιόπεια σοφά</l>
+        <l n="2">Μουσῶν προκαθαγέτι τερπνῶν</l>
+        <l n="3">καὶ σοφὲ μυστοδότα</l>
+        <l n="4">Λατοῦς γόνε Δήλιε Παιάν</l>
+        <l n="5">εὐμενεῖς πάρεστέ μοι</l>
+
+    </body>
+  </text>
+</TEI>

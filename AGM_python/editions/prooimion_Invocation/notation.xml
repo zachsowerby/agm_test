@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to the Muse</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the music notation of the Hymn to the Muse in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript (with reference to West)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="1">gvn:11.1.1.0.0+gvn:15.1.1.0.0+gvn:15.1.1.0.0 gvn:10.1.1.0.0+gvn:10.1.1.0.0 gvn:10.1.1.0.0 gvn:11.1.1.0.0+gvn:11.1.2.0.0</l>
+        <l n="2">gvn:11.1.1.0.0+gvn:11.1.1.0.0 gvn:14.1.1.0.0+gvn:14.1.1.0.0 gvn:10.1.1.0.0+gvn:13.1.1.0.0+gvn:13.1.1.0.0</l>
+        <l n="3">gvn:15.1.2.0.0+gvn:15.1.1.0.0 gvn:15.1.1.0.0 gvn:15.2.1.0.0 gvn:15.1.1.0.0 gvn:12.3.1.0.0+gvn:14.1.1.0.0+gvn:14.1.2.0.0</l>
+        <l n="4">gvn:13.1.1.0.0+gvn:14.3.1.0.0~gvn:12.3.1.0.0 gvn:14.1.1.0.0+gvn:10.1.1.0.0~gvn:11.1.1.0.0 gvn:11.2.1.0.0+gvn:13.1.1.0.0~gvn:10.1.1.0.0+gvn:11.1.1.0.0</l>
+
+    </body>
+  </text>
+</TEI>

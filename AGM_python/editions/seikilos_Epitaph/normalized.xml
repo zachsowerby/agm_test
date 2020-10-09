@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Seikilos Epitaph</title>
+        <author>Seikilos</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the <i>normalized</i> text of the Seikilos epitaph, from Copenhagen 14897</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the stele</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="1">ὅσον ζῇς φαίνου</l>
+        <l n="2">μηδὲν ὅλως σὺ λυποῦ</l>
+        <l n="3">πρὸς ὀλίγον ἔστι τὸ ζῆν</l>
+        <l n="4">τὸ τέλος ὁ χρόνος ἀπαιτεῖ</l>
+
+    </body>
+  </text>
+</TEI>

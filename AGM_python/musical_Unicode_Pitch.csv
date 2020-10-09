@@ -1,0 +1,142 @@
+|URN|,|Unicode Symbol|,|Unicode Number|,|Unicode Name|,|Description|,|West Number|
+|urn:cite2:zst:gvn:1.1|,|𝈀|,|0x1D200|,|[GREEK VOCAL NOTATION SYMBOL-1]|,|vocal E|,|1|
+|urn:cite2:zst:gvn:1.2|,|𝈁|,|0x1D201|,|[GREEK VOCAL NOTATION SYMBOL-2]|,|vocal first sharp of E|,|2|
+|urn:cite2:zst:gvn:1.3|,|𝈂|,|0x1D202|,|[GREEK VOCAL NOTATION SYMBOL-3]|,|vocal second sharp of E|,|3|
+|urn:cite2:zst:gvn:2.1|,|𝈃|,|0x1D203|,|[GREEK VOCAL NOTATION SYMBOL-4]|,|vocal F|,|4|
+|urn:cite2:zst:gvn:2.2|,|𝈄|,|0x1D204|,|[GREEK VOCAL NOTATION SYMBOL-5]|,|vocal first sharp of F|,|5|
+|urn:cite2:zst:gvn:2.3|,|𝈅|,|0x1D205|,|[GREEK VOCAL NOTATION SYMBOL-6]|,|vocal second sharp of F|,|6|
+|urn:cite2:zst:gvn:3.1|,|𝈆|,|0x1D206|,|[GREEK VOCAL NOTATION SYMBOL-7]|,|vocal G|,|7|
+|urn:cite2:zst:gvn:3.2|,|𝈇|,|0x1D207|,|[GREEK VOCAL NOTATION SYMBOL-8]|,|vocal first sharp of G|,|8|
+|urn:cite2:zst:gvn:3.3|,|𝈈|,|0x1D208|,|[GREEK VOCAL NOTATION SYMBOL-9]|,|vocal second sharp of G|,|9|
+|urn:cite2:zst:gvn:4.1|,|𝈉|,|0x1D209|,|[GREEK VOCAL NOTATION SYMBOL-10]|,|vocal A|,|10|
+|urn:cite2:zst:gvn:4.2|,|𝈊|,|0x1D20A|,|[GREEK VOCAL NOTATION SYMBOL-11]|,|vocal first sharp of A|,|11|
+|urn:cite2:zst:gvn:4.3|,|𝈋|,|0x1D20B|,|[GREEK VOCAL NOTATION SYMBOL-12]|,|vocal second sharp of A|,|12|
+|urn:cite2:zst:gvn:5.1|,|𝈌|,|0x1D20C|,|[GREEK VOCAL NOTATION SYMBOL-13]|,|vocal B|,|13|
+|urn:cite2:zst:gvn:5.2|,|𝈍|,|0x1D20D|,|[GREEK VOCAL NOTATION SYMBOL-14]|,|vocal first sharp of B|,|14|
+|urn:cite2:zst:gvn:5.3|,|𝈎|,|0x1D20E|,|[GREEK VOCAL NOTATION SYMBOL-15]|,|vocal second sharp of B|,|15|
+|urn:cite2:zst:gvn:6.1|,|𝈏|,|0x1D20F|,|[GREEK VOCAL NOTATION SYMBOL-16]|,|vocal c|,|16|
+|urn:cite2:zst:gvn:6.2|,|𝈐|,|0x1D210|,|[GREEK VOCAL NOTATION SYMBOL-17]|,|vocal first sharp of c|,|17|
+|urn:cite2:zst:gvn:6.3|,|𝈑|,|0x1D211|,|[GREEK VOCAL NOTATION SYMBOL-18]|,|vocal second sharp of c|,|18|
+|urn:cite2:zst:gvn:7.1|,|𝈒|,|0x1D212|,|[GREEK VOCAL NOTATION SYMBOL-19]|,|vocal d|,|19|
+|urn:cite2:zst:gvn:7.2|,|𝈓|,|0x1D213|,|[GREEK VOCAL NOTATION SYMBOL-20]|,|vocal first sharp of d|,|20|
+|urn:cite2:zst:gvn:7.3|,|𝈔|,|0x1D214|,|[GREEK VOCAL NOTATION SYMBOL-21]|,|vocal second sharp of d|,|21|
+|urn:cite2:zst:gvn:8.1|,|𝈕|,|0x1D215|,|[GREEK VOCAL NOTATION SYMBOL-22]|,|vocal e|,|22|
+|urn:cite2:zst:gvn:8.2|,|𝈖|,|0x1D216|,|[GREEK VOCAL NOTATION SYMBOL-23]|,|vocal first sharp of e|,|23|
+|urn:cite2:zst:gvn:8.3|,|𝈗|,|0x1D217|,|[GREEK VOCAL NOTATION SYMBOL-24]|,|vocal second sharp of e|,|24|
+|urn:cite2:zst:gvn:9.1|,|Ω|,|0x03A9|,|[GREEK CAPITAL LETTER OMEGA]|,|vocal f|,|25|
+|urn:cite2:zst:gvn:9.2|,|Ψ|,|0x03A8|,|[GREEK CAPITAL LETTER PSI]|,|vocal first sharp of f|,|26|
+|urn:cite2:zst:gvn:9.3|,|Χ|,|0x03A7|,|[GREEK CAPITAL LETTER CHI]|,|vocal second sharp of f|,|27|
+|urn:cite2:zst:gvn:10.1|,|Φ|,|0x03A6|,|[GREEK CAPITAL LETTER PHI]|,|vocal g|,|28|
+|urn:cite2:zst:gvn:10.2|,|Υ|,|0x03A5|,|[GREEK CAPITAL LETTER UPSILON]|,|vocal first sharp of g|,|29|
+|urn:cite2:zst:gvn:10.3|,|Τ|,|0x03A4|,|[GREEK CAPITAL LETTER TAU]|,|vocal second sharp of g|,|30|
+|urn:cite2:zst:gvn:11.1|,|Ϲ|,|0x03F9|,|[GREEK CAPITAL LUNATE SIGMA SYMBOL]|,|vocal a|,|31|
+|urn:cite2:zst:gvn:11.2|,|Ρ|,|0x03A1|,|[GREEK CAPITAL LETTER RHO]|,|vocal first sharp of a|,|32|
+|urn:cite2:zst:gvn:11.3|,|Π|,|0x03A0|,|[GREEK CAPITAL LETTER PI]|,|vocal second sharp of a|,|33|
+|urn:cite2:zst:gvn:12.1|,|Ο|,|0x039F|,|[GREEK CAPITAL LETTER OMICRON]|,|vocal b|,|34|
+|urn:cite2:zst:gvn:12.2|,|Ξ|,|0x039E|,|[GREEK CAPITAL LETTER XI]|,|vocal first sharp of b|,|35|
+|urn:cite2:zst:gvn:12.3|,|Ν|,|0x039D|,|[GREEK CAPITAL LETTER NU]|,|vocal second sharp of b|,|36|
+|urn:cite2:zst:gvn:13.1|,|Μ|,|0x039C|,|[GREEK CAPITAL LETTER MU]|,|vocal c′|,|37|
+|urn:cite2:zst:gvn:13.2|,|Λ|,|0x039B|,|[GREEK CAPITAL LETTER LAMDA]|,|vocal first sharp of c′|,|38|
+|urn:cite2:zst:gvn:13.3|,|Κ|,|0x039A|,|[GREEK CAPITAL LETTER KAPPA]|,|vocal second sharp of c′|,|39|
+|urn:cite2:zst:gvn:14.1|,|Ι|,|0x0399|,|[GREEK CAPITAL LETTER IOTA]|,|vocal d′|,|40|
+|urn:cite2:zst:gvn:14.2|,|Θ|,|0x0398|,|[GREEK CAPITAL LETTER THETA]|,|vocal first sharp of d′|,|41|
+|urn:cite2:zst:gvn:14.3|,|Η|,|0x0397|,|[GREEK CAPITAL LETTER ETA]|,|vocal second sharp of d′|,|42|
+|urn:cite2:zst:gvn:15.1|,|Ζ|,|0x0396|,|[GREEK CAPITAL LETTER ZETA]|,|vocal e′|,|43|
+|urn:cite2:zst:gvn:15.2|,|Ε|,|0x0395|,|[GREEK CAPITAL LETTER EPSILON]|,|vocal first sharp of e′|,|44|
+|urn:cite2:zst:gvn:15.3|,|Δ|,|0x0394|,|[GREEK CAPITAL LETTER DELTA]|,|vocal second sharp of e′|,|45|
+|urn:cite2:zst:gvn:16.1|,|Γ|,|0x0393|,|[GREEK CAPITAL LETTER GAMMA]|,|vocal f′|,|46|
+|urn:cite2:zst:gvn:16.2|,|Β|,|0x0392|,|[GREEK CAPITAL LETTER BETA]|,|vocal first sharp of f′|,|47|
+|urn:cite2:zst:gvn:16.3|,|Α|,|0x0391|,|[GREEK CAPITAL LETTER ALPHA]|,|vocal second sharp of f′|,|48|
+|urn:cite2:zst:gvn:17.1|,|Ʊ|,|0x01B1|,|[LATIN CAPITAL LETTER UPSILON]|,|vocal g′|,|49|
+|urn:cite2:zst:gvn:17.2|,|𝈘|,|0x1D218|,|[GREEK VOCAL NOTATION SYMBOL-50]|,|vocal first sharp of g′|,|50|
+|urn:cite2:zst:gvn:17.3|,|𝈙|,|0x1D219|,|[GREEK VOCAL NOTATION SYMBOL-51]|,|vocal second sharp of g′|,|51|
+|urn:cite2:zst:gvn:18.1|,|𝈚|,|0x1D21A|,|[GREEK VOCAL NOTATION SYMBOL-52]|,|vocal a′|,|52|
+|urn:cite2:zst:gvn:18.2|,|𝈛|,|0x1D21B|,|[GREEK VOCAL NOTATION SYMBOL-53]|,|vocal first sharp of a′|,|53|
+|urn:cite2:zst:gvn:18.3|,|𝈜|,|0x1D21C|,|[GREEK VOCAL NOTATION SYMBOL-54]|,|vocal second sharp of a′|,|54|
+|urn:cite2:zst:gvn:19.1|,|Ο′|,|0x039F 0x2032|,|[GREEK CAPITAL LETTER OMICRON][PRIME]|,|vocal b′|,|55|
+|urn:cite2:zst:gvn:19.2|,|Ξ′|,|0x039E 0x2032|,|[GREEK CAPITAL LETTER XI][PRIME]|,|vocal first sharp of b′|,|56|
+|urn:cite2:zst:gvn:19.3|,|Ν′|,|0x039D 0x2032|,|[GREEK CAPITAL LETTER NU][PRIME]|,|vocal second sharp of b′|,|57|
+|urn:cite2:zst:gvn:20.1|,|Μ′|,|0x039C 0x2032|,|[GREEK CAPITAL LETTER MU][PRIME]|,|vocal c′′|,|58|
+|urn:cite2:zst:gvn:20.2|,|Λ′|,|0x039B 0x2032|,|[GREEK CAPITAL LETTER LAMDA][PRIME]|,|vocal first sharp of c′′|,|59|
+|urn:cite2:zst:gvn:20.3|,|Κ′|,|0x039A 0x2032|,|[GREEK CAPITAL LETTER KAPPA][PRIME]|,|vocal second sharp of c′′|,|60|
+|urn:cite2:zst:gvn:21.1|,|Ι′|,|0x0399 0x2032|,|[GREEK CAPITAL LETTER IOTA][PRIME]|,|vocal d′′|,|61|
+|urn:cite2:zst:gvn:21.2|,|Θ′|,|0x0398 0x2032|,|[GREEK CAPITAL LETTER THETA][PRIME]|,|vocal first sharp of d′′|,|62|
+|urn:cite2:zst:gvn:21.3|,|Η′|,|0x0397 0x2032|,|[GREEK CAPITAL LETTER ETA][PRIME]|,|vocal second sharp of d′′|,|63|
+|urn:cite2:zst:gvn:22.1|,|Ζ′|,|0x0396 0x2032|,|[GREEK CAPITAL LETTER ZETA][PRIME]|,|vocal e′′|,|64|
+|urn:cite2:zst:gvn:22.2|,|Ε′|,|0x0395 0x2032|,|[GREEK CAPITAL LETTER EPSILON][PRIME]|,|vocal first sharp of e′′|,|65|
+|urn:cite2:zst:gvn:22.3|,|Δ′|,|0x0394 0x2032|,|[GREEK CAPITAL LETTER DELTA][PRIME]|,|vocal second sharp of e′′|,|66|
+|urn:cite2:zst:gvn:23.1|,|Γ′|,|0x0393 0x2032|,|[GREEK CAPITAL LETTER GAMMA][PRIME]|,|vocal f′′|,|67|
+|urn:cite2:zst:gvn:23.2|,|Β′|,|0x0392 0x2032|,|[GREEK CAPITAL LETTER BETA][PRIME]|,|vocal first sharp of f′′|,|68|
+|urn:cite2:zst:gvn:23.3|,|Α′|,|0x0391 0x2032|,|[GREEK CAPITAL LETTER ALPHA][PRIME]|,|vocal second sharp of f′′|,|69|
+|urn:cite2:zst:gvn:24.1|,|Ʊ′|,|0x01B1 0x2032|,|[LATIN CAPITAL LETTER UPSILON][PRIME]|,|vocal g′′|,|70|
+|urn:cite2:zst:gin:1.1|,|𝈝|,|0x1D21D|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-1]|,|instrumental E|,|1|
+|urn:cite2:zst:gin:1.2|,|𝈞|,|0x1D21E|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-2]|,|instrumental first sharp of E|,|2|
+|urn:cite2:zst:gin:1.3|,|𝈂|,|0x1D202|,|[GREEK VOCAL NOTATION SYMBOL-3]|,|instrumental second sharp of E|,|3|
+|urn:cite2:zst:gin:2.1|,|𝈟|,|0x1D21F|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-4]|,|instrumental F|,|4|
+|urn:cite2:zst:gin:2.2|,|𝈠|,|0x1D220|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-5]|,|instrumental first sharp of F|,|5|
+|urn:cite2:zst:gin:2.3|,|Τ|,|0x03A4|,|[GREEK CAPITAL LETTER TAU]|,|instrumental second sharp of F|,|6|
+|urn:cite2:zst:gin:3.1|,|𝈡|,|0x1D221|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-7]|,|instrumental G|,|7|
+|urn:cite2:zst:gin:3.2|,|𝈢|,|0x1D222|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-8]|,|instrumental first sharp of G|,|8|
+|urn:cite2:zst:gin:3.3|,|𝈆|,|0x1D206|,|[GREEK VOCAL NOTATION SYMBOL-7]|,|instrumental second sharp of G|,|9|
+|urn:cite2:zst:gin:4.1|,|Η|,|0x0397|,|[GREEK CAPITAL LETTER ETA]|,|instrumental A|,|10|
+|urn:cite2:zst:gin:4.2|,|𝈣|,|0x1D223|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-11]|,|instrumental first sharp of A|,|11|
+|urn:cite2:zst:gin:4.3|,|𝈤|,|0x1D224|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-12]|,|instrumental second sharp of A|,|12|
+|urn:cite2:zst:gin:5.1|,|𝈥|,|0x1D225|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-13]|,|instrumental B|,|13|
+|urn:cite2:zst:gin:5.2|,|𝈦|,|0x1D226|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-14]|,|instrumental first sharp of B|,|14|
+|urn:cite2:zst:gin:5.3|,|𝈑|,|0x1D211|,|[GREEK VOCAL NOTATION SYMBOL-18]|,|instrumental second sharp of B|,|15|
+|urn:cite2:zst:gin:6.1|,|Ε|,|0x0395|,|[GREEK CAPITAL LETTER EPSILON]|,|instrumental c|,|16|
+|urn:cite2:zst:gin:6.2|,|𝈧|,|0x1D227|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-17]|,|instrumental first sharp of c|,|17|
+|urn:cite2:zst:gin:6.3|,|𝈨|,|0x1D228|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-18]|,|instrumental second sharp of c|,|18|
+|urn:cite2:zst:gin:7.1|,|𝈩|,|0x1D229|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-19]|,|instrumental d|,|19|
+|urn:cite2:zst:gin:7.2|,|𝈜|,|0x1D21C|,|[GREEK VOCAL NOTATION SYMBOL-54]|,|instrumental first sharp of d|,|20|
+|urn:cite2:zst:gin:7.3|,|𝈅|,|0x1D205|,|[GREEK VOCAL NOTATION SYMBOL-6]|,|instrumental second sharp of d|,|21|
+|urn:cite2:zst:gin:8.1|,|Γ|,|0x0393|,|[GREEK CAPITAL LETTER GAMMA]|,|instrumental e|,|22|
+|urn:cite2:zst:gin:8.2|,|𝈪|,|0x1D22A|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-23]|,|instrumental first sharp of e|,|23|
+|urn:cite2:zst:gin:8.3|,|𝈫|,|0x1D22B|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-24]|,|instrumental second sharp of e|,|24|
+|urn:cite2:zst:gin:9.1|,|𝈬|,|0x1D22C|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-25]|,|instrumental f|,|25|
+|urn:cite2:zst:gin:9.2|,|𝈭|,|0x1D22D|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-26]|,|instrumental first sharp of f|,|26|
+|urn:cite2:zst:gin:9.3|,|𝈮|,|0x1D22E|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-27]|,|instrumental second sharp of f|,|27|
+|urn:cite2:zst:gin:10.1|,|𝈓|,|0x1D213|,|[GREEK VOCAL NOTATION SYMBOL-20]|,|instrumental g|,|28|
+|urn:cite2:zst:gin:10.2|,|𝈯|,|0x1D22F|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-29]|,|instrumental first sharp of g|,|29|
+|urn:cite2:zst:gin:10.3|,|𝈰|,|0x1D230|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-30]|,|instrumental second sharp of g|,|30|
+|urn:cite2:zst:gin:11.1|,|Ϲ|,|0x03F9|,|[GREEK CAPITAL LUNATE SIGMA SYMBOL]|,|instrumental a|,|31|
+|urn:cite2:zst:gin:11.2|,|𝈱|,|0x1D231|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-32]|,|instrumental first sharp of a|,|32|
+|urn:cite2:zst:gin:11.3|,|Ͻ|,|0x03FD|,|[GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL]|,|instrumental second sharp of a|,|33|
+|urn:cite2:zst:gin:12.1|,|Κ|,|0x039A|,|[GREEK CAPITAL LETTER KAPPA]|,|instrumental b|,|34|
+|urn:cite2:zst:gin:12.2|,|𝈎|,|0x1D20E|,|[GREEK VOCAL NOTATION SYMBOL-15]|,|instrumental first sharp of b|,|35|
+|urn:cite2:zst:gin:12.3|,|𝈲|,|0x1D232|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-36]|,|instrumental second sharp of b|,|36|
+|urn:cite2:zst:gin:13.1|,|𝈳|,|0x1D233|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-37]|,|instrumental c′|,|37|
+|urn:cite2:zst:gin:13.2|,|𝈴|,|0x1D234|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-38]|,|instrumental first sharp of c′|,|38|
+|urn:cite2:zst:gin:13.3|,|𝈵|,|0x1D235|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-39]|,|instrumental second sharp c′|,|39|
+|urn:cite2:zst:gin:14.1|,|𝈶|,|0x1D236|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-40]|,|instrumental d′|,|40|
+|urn:cite2:zst:gin:14.2|,|𝈍|,|0x1D20D|,|[GREEK VOCAL NOTATION SYMBOL-14]|,|instrumental first sharp of d′|,|41|
+|urn:cite2:zst:gin:14.3|,|𝈷|,|0x1D237|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-42]|,|instrumental second sharp of d′|,|42|
+|urn:cite2:zst:gin:15.1|,|𝈸|,|0x1D238|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-43]|,|instrumental e′|,|43|
+|urn:cite2:zst:gin:15.2|,|𝈈|,|0x1D208|,|[GREEK VOCAL NOTATION SYMBOL-9]|,|instrumental first sharp of e′|,|44|
+|urn:cite2:zst:gin:15.3|,|𝈹|,|0x1D239|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-45]|,|instrumental second sharp of e′|,|45|
+|urn:cite2:zst:gin:16.1|,|Ν|,|0x039D|,|[GREEK CAPITAL LETTER NU]|,|instrumental f′|,|46|
+|urn:cite2:zst:gin:16.2|,|𝈺|,|0x1D23A|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-47]|,|instrumental first sharp of f′|,|47|
+|urn:cite2:zst:gin:16.3|,|𝈻|,|0x1D23B|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-48]|,|instrumental second sharp of f′|,|48|
+|urn:cite2:zst:gin:17.1|,|𝈼|,|0x1D23C|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-49]|,|instrumental g′|,|49|
+|urn:cite2:zst:gin:17.2|,|𝈽|,|[1D23D|,|]GREEK INSTRUMENTAL NOTATION SYMBOL-50]|,|instrumental first sharp of g′|,|50|
+|urn:cite2:zst:gin:17.3|,|𝈾|,|0x1D23E|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-51]|,|instrumental second sharp of g′|,|51|
+|urn:cite2:zst:gin:18.1|,|𝈿|,|0x1D23F|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-52]|,|instrumental a′|,|52|
+|urn:cite2:zst:gin:18.2|,|𝉀|,|0x1D240|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-53]|,|instrumental first sharp of a′|,|53|
+|urn:cite2:zst:gin:18.3|,|𝉁|,|0x1D241|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-54]|,|instrumental second sharp of a′|,|54|
+|urn:cite2:zst:gin:19.1|,|Κ′|,|0x039A 0x2032|,|[GREEK CAPITAL LETTER KAPPA][PRIME]|,|instrumental b′|,|55|
+|urn:cite2:zst:gin:19.2|,|𝈎′|,|0x1D20E 0x2032|,|[GREEK VOCAL NOTATION SYMBOL-15][PRIME]|,|instrumental first sharp of b′|,|56|
+|urn:cite2:zst:gin:19.3|,|𝈲′|,|0x1D232 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-36][PRIME]|,|instrumental second sharp of b′|,|57|
+|urn:cite2:zst:gin:20.1|,|𝈳′|,|0x1D233 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-37][PRIME]|,|instrumental c′′|,|58|
+|urn:cite2:zst:gin:20.2|,|𝈴′|,|0x1D234 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-38][PRIME]|,|instrumental first sharp of c′′|,|59|
+|urn:cite2:zst:gin:20.3|,|𝈵′|,|0x1D235 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-39][PRIME]|,|instrumental second sharp of c′′|,|60|
+|urn:cite2:zst:gin:21.1|,|𝈶′|,|0x1D236 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-40][PRIME]|,|instrumental d′′|,|61|
+|urn:cite2:zst:gin:21.2|,|𝈍′|,|0x1D20D 0x2032|,|[GREEK VOCAL NOTATION SYMBOL-14][PRIME]|,|instrumental first sharp of d′′|,|62|
+|urn:cite2:zst:gin:21.3|,|𝈷′|,|0x1D237 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-42][PRIME]|,|instrumental second sharp of d′′|,|63|
+|urn:cite2:zst:gin:22.1|,|𝈸′|,|0x1D238 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-43][PRIME]|,|instrumental e′′|,|64|
+|urn:cite2:zst:gin:22.2|,|𝈈′|,|0x1D208 0x2032|,|[GREEK VOCAL NOTATION SYMBOL-9][PRIME]|,|instrumental first sharp of e′′|,|65|
+|urn:cite2:zst:gin:22.3|,|𝈹′|,|0x1D239 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-45][PRIME]|,|instrumental second sharp of e′′|,|66|
+|urn:cite2:zst:gin:23.1|,|Ν′|,|0x039D 0x2032|,|[GREEK CAPITAL LETTER NU][PRIME]|,|instrumental f′′|,|67|
+|urn:cite2:zst:gin:23.2|,|𝈺′|,|0x1D23A 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-47][PRIME]|,|instrumental first sharp of f′′|,|68|
+|urn:cite2:zst:gin:23.3|,|𝈻′|,|0x1D23B 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-48][PRIME]|,|instrumental second sharp of f′′|,|69|
+|urn:cite2:zst:gin:24.1|,|𝈼′|,|0x1D23B 0x2032|,|[GREEK INSTRUMENTAL NOTATION SYMBOL-49][PRIME]|,|instrumental g′′|,|70|
+|urn:cite2:zst:gcn:1|,|𝉅|,|0x1D245|,|[GREEK MUSICAL LEIMMA]|,|rest|,|n/a|

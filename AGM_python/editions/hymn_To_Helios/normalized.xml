@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hymn to Helios</title>
+        <author>Mesomedes</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the text of the Hymn to Helios in Neapolitanus graecus III C 4 (with reference to West)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript (with reference to West)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="7">χιονοβλεφάρου πάτερ Ἀοῦς</l>
+        <l n="8">ῥοδόεσσαν ὃς ἄντυγα πώλων</l>
+        <l n="9">πτανοῖς ὑπ' ἴχνεσσι διώκεις</l>
+        <l n="10">χρυσέαισιν ἀγαλλόμενος κόμαις</l>
+        <l n="11">περὶ νῶτον ἀπείριτον οὐρανοῦ</l>
+        <l n="12">ἀκτῖνα πολύστροφον ἀμπλέκων</l>
+        <l n="13">αἴγλας πολυδερκέα πάγαν</l>
+        <l n="14">περὶ γαῖαν ἅπασαν ἑλίσσων</l>
+        <l n="15">ποταμοὶ δὲ σέθεν πυρὸς ἀμβρότου</l>
+        <l n="16">τίκτουσιν ἐπήρατον ἁμέραν</l>
+        <l n="17">σοὶ μὲν χορὸς εὔδιος ἀστέρων</l>
+        <l n="18">κατ' Ὄλυμπον ἄνακτα χορεύει</l>
+        <l n="19">ἄνετον μέλος αἰὲν ἀείδων</l>
+        <l n="20">Φοιβηίδι τερπόμενος λύραι</l>
+        <l n="21">γλαυκὰ δὲ πάροιθε Σελάνα</l>
+        <l n="22">χρόνον ὥριον ἁγεμονεύει</l>
+        <l n="23">λευκῶν ὑπὸ σύρμασι μόσχων</l>
+        <l n="24">γάνυται δέ τέ σοι νόος εὐμενὴς</l>
+        <l n="25">πολυείμονα κόσμον ἑλίσσων</l>
+
+    </body>
+  </text>
+</TEI>

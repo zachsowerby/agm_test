@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Seikilos Epitaph</title>
+        <author>Seikilos</author>
+        <editor>Zachary Sowerby</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the implied accentuation of the Seikilos epitaph, from Copenhagen 14897</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Reconstructed based on photography of the stele</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+        <l n="1">/+_ = /+_</l>
+        <l n="2">_+\ /+_ \ _+=</l>
+        <l n="3">\ _+/+_ /+_ \ =</l>
+        <l n="4">\ /+_ _ /+_ _+_+=</l>
+
+    </body>
+  </text>
+</TEI>
